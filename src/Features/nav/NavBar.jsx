@@ -14,8 +14,8 @@ export default function NavBar() {
                     <Button positive inverted content='Create Event'/>
                 </Menu.Item>
                 <Menu.Item position='right'>
-                    <Button positive inverted content='Login'/>
-                    <Button positive inverted content='Register' style={{marginLeft: '0.5em'}}/>
+                    <Button basic inverted content='Login'/>
+                    <Button basic inverted content='Register' style={{marginLeft: '0.5em'}}/>
                 </Menu.Item>
             </Container>
         </Menu>
